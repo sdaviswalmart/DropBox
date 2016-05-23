@@ -1,13 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720
-
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ## Dropbox\
-\
 The purpose of this homework is to use Xcode to implement the flow between the screens of an application. We're going to use the techniques from this week to implement the Dropbox app from the signed out state to the basic signed in state.\
 \
 Time spent: `10`\
@@ -39,13 +29,13 @@ Time spent: `10`\
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):\
 \
 1. Clearer instructions for more specific interactions\
-2. Keyboard control review\
+2. Sign out without having page go to Create Account automatically/firstsegue
 \
 ### Video Walkthrough \
 \
 Here's a walkthrough of implemented user stories:\
 \
-<img src='DropBox/DropBox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />\
+<img src='https://github.com/sdaviswalmart/DropBox/blob/master/DropBox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />\
 \
 GIF created with [LiceCap](http://www.cockos.com/licecap/).\
 \

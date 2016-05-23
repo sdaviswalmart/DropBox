@@ -28,9 +28,9 @@ Time spent: `10`
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. Clearer instructions for more specific interactions
+1. Keyboard control
 2. Sign out without having page go to Create Account automatically/firstsegue
-\
+
 ### Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
@@ -40,5 +40,4 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
-* Any libraries or borrowed content.\
-}
+* Any libraries or borrowed content.
